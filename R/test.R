@@ -3,7 +3,7 @@ my_square <- function(x) {
 	x * x
 }
 
-a <- 6
-b <- my_square(a)
+z <- 6
+b <- my_square(z)
 b
 
