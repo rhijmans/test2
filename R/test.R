@@ -4,5 +4,6 @@ my_square <- function(x) {
 }
 
 a <- 6
-my_square(a)
+b <- my_square(a)
+b
 
