@@ -1,5 +1,5 @@
 
-square <- function(x) {
+your_square <- function(x) {
 	x * x
 }
 
