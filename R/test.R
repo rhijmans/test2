@@ -1,8 +1,8 @@
 
-square <- function(x) {
+my_square <- function(x) {
 	x * x
 }
 
-a <- 3
-square(a)
+a <- 6
+my_square(a)
 
