@@ -7,3 +7,5 @@ a <- 6
 b <- my_square(a)
 b
 
+
+
